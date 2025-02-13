@@ -1,0 +1,19 @@
+# Backend
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Frontend
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+
+# General
+.vscode/
+.idea/
